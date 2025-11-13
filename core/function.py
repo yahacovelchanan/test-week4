@@ -7,12 +7,12 @@ def caesar1(text:str):
             if i==j:
                 count+=len(i)+len(j)
                 r.append(y[count])
-    print(r)            
+               
     return r
             
             
 
-caesar1("bd")
+
               
       
         
